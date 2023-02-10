@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/LoginPage/LoginPage.unity
+    guid: ec78865e4372ba94380c3d3362e7ab49
+  - enabled: 1
+    path: Assets/Scenes/RegistrationPage/RegisterMenu.unity
+    guid: 7d26d5e681b0d3742b15f8f5be08de95
+  - enabled: 1
+    path: Assets/Scenes/MainPage/MainPage.unity
+    guid: ec4416ac28b23eb4ea8182c7f5398564
+  - enabled: 1
+    path: Assets/Scenes/UserPage/UserPage.unity
+    guid: ffc699c44b7017c41934b2631fc3b175
+  - enabled: 1
+    path: Assets/Scenes/UserProfile/UserProfile.unity
+    guid: f7b2e10dee14e48448cd539f94ce888c
+  - enabled: 1
+    path: Assets/Scenes/ShoppingCart/ShoppingCartPage.unity
+    guid: 2f1a865d7c0d11f4c8b20a57dc35617b
+  - enabled: 1
+    path: Assets/Scenes/SceneAR.unity
+    guid: 0049c32336f00154cb21d064b97d4a30
+  - enabled: 1
+    path: Assets/Scenes/SceneMultiplayer.unity
+    guid: 556af8b97ea9fd644ae898b7162240b9
+  - enabled: 0
+    path: Assets/Scenes/3DCustomisationScene.unity
+    guid: 868b89d4d062db6438759a977715ba3c
+  - enabled: 1
+    path: Assets/Scenes/ARMenu.unity
+    guid: bcf67cdfc64e45e42846fc0b201d55f9
+  - enabled: 1
+    path: Assets/Scenes/ScanARCust.unity
+    guid: 59759d0bfb366be4a8bbecadc4745db7
+  - enabled: 1
+    path: Assets/Scenes/ScanMyARCust.unity
+    guid: ec2864b824c532448bab9b1a8ae3e662
+  - enabled: 1
+    path: Assets/Scenes/Customisation.unity
+    guid: 033d63f13280fce43b497f095052be4d
+  - enabled: 0
+    path: Assets/Scenes/Lucky.unity
+    guid: ce8b991effd97434082016d37fcfd484
+  - enabled: 1
+    path: Assets/Scenes/Staffed.unity
+    guid: 9f5e1c2471209df44a3a9f8619f6bc4f
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 5a0e820f188f65d40bee67a86b4ac6ce, type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: d24a4ddaf0c315a41a98ada5bbfa3e18, type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 342ace1cac9d9e046a5e7c3bbfc37f7c, type: 2}
+    com.unity.xr.magicleap.magic_leap_settings: {fileID: 11400000, guid: 7d0f429c69c0d624ea11878562a55637, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 7a41d538144f221449631ce051f6a8bd, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: cda4a3ebb29009441b4fb2ed4a4285fd, type: 2}

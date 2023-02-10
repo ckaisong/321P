@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="HappyBirthdayCard2" size="0.148000 0.111000" />
+    <ImageTarget name="WeddingCard" size="0.148000 0.104989" />
+    <ImageTarget name="HappyBirthdayCard" size="0.148000 0.104989" />
+    <ImageTarget name="ChristmasCard" size="0.148000 0.104989" />
+    <ImageTarget name="TissuePaper" size="0.115000 0.074090" />
+  </Tracking>
+</QCARConfig>
